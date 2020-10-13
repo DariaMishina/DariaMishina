@@ -12,7 +12,12 @@
 
 I am Daria Mishina, studying Data Science at Skillfactory 📚.
 
-My PhD degree in Engineering and 10 years of experience in Thermal spraying and 3D printing (WAAM, DMLS, SLS SLM, FDM) garantie best approaches for you challenges in metallurgy, machinery and oil- gas production.
+My PhD degree in Economics and more than 10 projects of of experience in Thermal spraying and 3D printing (WAAM, DMLS, SLS SLM, FDM) garantie best approaches for you challenges in tax, accounting and finance
+
+
+Currently studying machine learning technologies in accounting and finance. With the emergence and development of SAP Data Intelligence and the analysis of customer requests on SAP implementation I understood it was necessary to enhance my knowledge in this sphere
+I know how to make SAP implementation projects more efficient with ML in the process of implementing a predictive closure pet project.
+
 
 Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy, SciKit-Learn), SQL, Git
 IDE: VS Code, PyCharm, Jupyter Notebook.
