@@ -12,5 +12,5 @@ My PhD degree in Economics and more than 10 projects of SAP implementation (desi
 
 ↪️✌️ CV [here](https://hh.ru/resume/a1cd5cf3ff0843af840039ed1f75614264684d) and profile of [LinkedIn](https://www.linkedin.com/in/daria-mishina/)
 
-📩 If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](t.me/Daria_Mishina28) or e-mail: dvmishina@mail.ru
+📩 If you'd like to ask any questions about me or my study or would like to collaborate on a project, feel free to call or write with [Telegram](https://t.me/Daria_Mishina28) or e-mail: dvmishina@mail.ru
 
